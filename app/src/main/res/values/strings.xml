@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mabiri</string>
+    <string name="mabiri">MABIRI</string>
+    <string name="set_location_to_find_deals_nearby">Set location to find deals nearby</string>
+</resources>
